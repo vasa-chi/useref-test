@@ -1,0 +1,16 @@
+{
+  "name": "useref-test",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp-useref": "^0.3.0",
+    "gulp": "^3.6.0",
+    "gulp-util": "^2.2.14"
+  }
+}
